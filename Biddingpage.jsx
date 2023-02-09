@@ -42,6 +42,7 @@ const Biddingpage = () => {
         const val = price/percent;
           alert("Valuation you are giving ->"+val)
     //   const login = {
+        
     //     email: email,
     //     password: password,
 
